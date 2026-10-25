@@ -1,0 +1,24 @@
+# Java compiled files
+*.class
+
+# Java build outputs
+out/
+build/
+target/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
